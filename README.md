@@ -1,5 +1,10 @@
 # Pyspark-and-Data-Visualizations-
 
--Pyspark 
--Hadoop
--Virtual Machine 
+Big data analysis in pyspark
+
+Logistic regression to predict credit card defaults
+
+- Pyspark 
+- Hadoop
+- Virtual Machine 
+- Matplotlib
